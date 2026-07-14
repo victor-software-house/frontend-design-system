@@ -10,6 +10,8 @@
 
 **Authoritative specification:** `docs/superpowers/specs/2026-07-14-living-worlds-design.md`
 
+**Binding law:** `docs/design-laws.md` — this plan yields to the specification, and both yield to the laws.
+
 ## Global Constraints
 
 - Source provenance is always `33c360659fed449fc849d4ed651bb3a856b76f12`; never read candidate content from `main`, `HEAD`, or an unpinned URL.
@@ -314,7 +316,7 @@ cd "$CLAUDE_JOB_DIR/tmp/correspondence-living-world-proof" && \
   bun add -d vite@8.1 @vitejs/plugin-react typescript @types/bun \
     vitest jsdom @testing-library/react @testing-library/user-event \
     @testing-library/jest-dom @playwright/test @axe-core/playwright \
-    biome oxlint
+    @biomejs/biome@^2 oxlint
 ```
 
 Create `vitest.config.ts`:
