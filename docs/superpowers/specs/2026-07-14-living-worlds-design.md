@@ -1,6 +1,6 @@
 # Living Worlds Design
 
-Status: approved direction
+Status: direction approved; written specification pending operator review
 Date: 2026-07-14
 Source: `victor-software-house/frontend-design-corpus@33c360659fed449fc849d4ed651bb3a856b76f12`
 Repository: `victor-software-house/frontend-design-system`
@@ -232,7 +232,7 @@ The Atlas is a navigation instrument, not a homepage.
 ### Behavior
 
 - Available from every public route through a small labelled trigger.
-- Openable by keyboard through the standard command shortcut.
+- Openable with `⌘K` on macOS and `Ctrl+K` elsewhere; the shortcut does not fire while the visitor is typing in an editable control.
 - Rendered as an accessible dialog with focus containment and return.
 - Lists houses first and studies second.
 - Supports type-ahead search by title, subject, capability, and world.
@@ -396,6 +396,14 @@ Fixtures are deterministic and local. State that demonstrates continuity may per
 
 The public app does not depend on a backend for the first release. Interactions demonstrate complete product behavior with deterministic client state.
 
+### Failure behavior
+
+- Unknown public routes resolve to the semantic Atlas index with a precise not-found message; they do not invent a generic branded error page.
+- Missing or duplicate metadata, invalid provenance, unresolved frame routes, and lens annotations without declared ownership fail the build.
+- A failed optional font load falls back to the declared role stack without blocking content or shifting controls outside their bounds.
+- Deterministic fixtures expose authored error scenarios; unexpected runtime exceptions surface through a minimal recovery boundary and are treated as test failures.
+- The public app makes no runtime network request for exemplar content, metadata, fonts, or fixtures.
+
 ## Content requirements
 
 - Preserve or improve the specificity of the original prose.
@@ -408,6 +416,16 @@ The public app does not depend on a backend for the first release. Interactions 
 ## First visual proof
 
 Only the Correspondence house is built for the first approval cycle.
+
+The visual proof is authored in a disposable workspace outside the target Git repository. Gate 1 is reviewed before Gate 2 begins. Only the operator-approved elevated result is then reimplemented cleanly in the target repository; rejected proof code, captures, and translations never enter its object database or branches.
+
+### Review sequence
+
+1. **Fidelity proof** — live React translation of the five Correspondence surfaces, with shared machinery visually subordinate.
+2. **Fidelity review** — full-height desktop and mobile, light and dark, plus the complete route journey.
+3. **Elevation proof** — add only improvements derived from Correspondence's existing beliefs: continuity, preserved state, richer consequences, and one new authored moment.
+4. **Elevation review** — compare against both the pinned originals and the approved fidelity proof.
+5. **Clean implementation** — reproduce the approved result in the target repository without importing temporary proof history or files.
 
 ### Scope
 
@@ -437,7 +455,7 @@ Stop and remove the proof when:
 - mobile or dark treatment becomes secondary
 - operator visual review rejects the result
 
-A rejected proof does not enter the target repository's main history.
+A rejected proof does not enter the target repository's Git history, branches, snapshots, registry output, packages, or public deployment.
 
 ## Verification
 
