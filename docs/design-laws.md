@@ -6,22 +6,14 @@ Drawn from the pinned corpus at
 
 — and only from that tree.
 
-Works consulted for this register:
-
-- `corpus/content/harmonies.html`
-- `corpus/data/analytics-damp-year.html`
-- `corpus/documents/research-digest.html`
-- `corpus/documents/status-briefing-console.html`
-- `corpus/documents/status-briefing-editorial.html`
-- `corpus/documents/decision-memo.html`
-- `corpus/content/api-reference-correspondence.html`
-- `corpus/product/dashboard-conservation.html`
-- `corpus/product/data-table-catalogue.html`
-- `corpus/product/states-four-weathers.html`
+This register is the one home of corpus law. First drawn from ten works, it was
+extended by the Living Worlds reading of all twenty-three. The specification at
+`superpowers/specs/2026-07-14-living-worlds-design.md` binds itself to this
+register without restating it; the Correspondence proof executes under both.
+Gate 1 fidelity remains bound by "avoid dropping the bar." Elevation deepens
+the same world; it does not invent a sixth shell.
 
 These laws clear the floor. They are not a costume. Art still leads; the subject still decides.
-
-Related: Gate 1 fidelity for Correspondence remains bound by “avoid dropping the bar.” Elevation deepens the same world; it does not invent a sixth shell.
 
 ---
 
@@ -33,9 +25,19 @@ The chapel is on night watch. The varnish of 1894 is on trial. Five books on blu
 
 The interface does not introduce these facts. It inherits them. When the subject is clear, the chrome may be quiet. When the chrome is loud, the subject is usually missing.
 
+Components are chosen only after the native representation of the problem is understood — subject, audience, tension, and mood before a single primitive.
+
 ---
 
-## 2. Value before hue
+## 2. Content and interface are one material
+
+The boat batches delivery. The bench holds a real queue. The wall obeys weather. The ledger recognizes a hand.
+
+These sentences are not captions on behavior; they are the behavior. The strongest language in each work defines hierarchy and consequence, and removing the language changes the product. A page whose words could be swapped without loss has not yet found its material.
+
+---
+
+## 3. Value before hue
 
 Harmonies opens the cave with a law older than taste:
 
@@ -45,7 +47,7 @@ The first craft is not color. It is weight, spacing, measure, and the honest dif
 
 ---
 
-## 3. One house, one ember
+## 4. One house, one ember
 
 When many series must speak, they speak as kin — one blue family, oxford to mist — while furniture stays slate and sand. The ember is reserved.
 
@@ -53,11 +55,21 @@ When many series must speak, they speak as kin — one blue family, oxford to mi
 
 The northeast corner alone spends the winter above the solvent ceiling. The finding of the season alone carries the ember among five books. The blocker alone holds the release. Luxury is not abundance of accent; it is restraint with one exception, publicly kept.
 
-Dark walls remain neutral charcoal. Warmth lives in type, metals, and the single flame — never in the night itself.
+The full ledger of expenditure:
+
+- one blue may point across a reading surface
+- one ember identifies the exceptional series or decision
+- green seals resolution
+- amber holds a gate
+- dark walls remain neutral charcoal
+- moonlight accents remain muted
+- categorical rainbow palettes do not survive
+
+Warmth lives in type, metals, and the single flame — never in the night itself.
 
 ---
 
-## 4. Spend where conviction lives
+## 5. Spend where conviction lives
 
 The Winter Reading gives the house its genealogy:
 
@@ -67,7 +79,53 @@ Vermeer put ultramarine in shadows no visitor would praise. Authority is built i
 
 ---
 
-## 5. Know the number; name the work; keep what was made
+## 6. Typography has dramatic roles
+
+One family cannot play every part.
+
+- display serif carries ceremony or conviction
+- text serif carries sustained thought and intimacy
+- sans carries operation and navigation
+- mono carries evidence, provenance, time, identifiers, and machine state
+- italic carries voice, qualification, or material character
+
+Each world casts these roles from its own approved faces. A single global family and scale flattens the cast and silences the play.
+
+---
+
+## 7. Density follows the act
+
+A catalogue is dense because lookup is the work. A decision minute is spacious because consequence must settle. A console is tight because scanning matters.
+
+Density is not a comfort setting; it is the shape of the act the room was built for. No global density system may flatten those differences.
+
+---
+
+## 8. Quiet is constructed
+
+Quiet is not the absence of design. It is measure held, pacing kept, hairlines instead of walls, color withheld, emphasis governed, and empty space that means something.
+
+The rooms that feel calm are the most decided ones.
+
+---
+
+## 9. One authored moment carries each work
+
+Every approved work holds one composition that could not be traded to another page without breaking meaning: the sewn spine, the three roads, the listening wall, the gate rail, the anomalous ember series, the plotted light, the correspondence window.
+
+The surrounding interface stays quiet enough for that moment to govern. A page with two such moments has not chosen; a page with none is furniture.
+
+---
+
+## 10. Repetition creates a world, not a template
+
+Related works share memory, manners, nouns, and consequence — the northeast corner, the damp watch, Minute No. 14 — while keeping distinct silhouettes.
+
+Consistency is continuity of belief, not identity of cards. When two pages of one house look interchangeable, the house has died into a template.
+
+---
+
+## 11. Know the number; name the work; keep what was made
 
 The Four Weathers bind every surface with one grammar.
 
@@ -89,7 +147,7 @@ A state is never the product. It is the product’s manners while something else
 
 ---
 
-## 6. One decision, fully lit
+## 12. One decision, fully lit
 
 The briefings and the minute share a posture of gravity without panic.
 
@@ -99,9 +157,11 @@ A conditional go. One gate closed. One blocker in arithmetic. Three roads, a tal
 
 Severity is a moral distinction, not a color chip. The amber entry is the gate now in the way; the rest may ship documented. Talk tracks exist so Thursday is execution, not debate.
 
+Evidence leads to judgment: charts, tables, timelines, and ledgers arrive at a decision, a gate, a repair, or an explicitly unresolved question. Display without consequence is insufficient.
+
 ---
 
-## 7. Manners are the product
+## 13. Manners are the product
 
 Correspondence’s API says what the whole corpus practices:
 
@@ -113,7 +173,7 @@ Where a product has manners, the interface is their public face. Where it has no
 
 ---
 
-## 8. Ornament informs, or remains pure form
+## 14. Ornament informs, or remains pure form
 
 A boat mark names a crossing. A green seal names what was kept. An asterism holds a pause. A rule divides what is truly divided.
 
@@ -121,15 +181,31 @@ What repeats a datum the adjacent text already gives is not ornament. It is insu
 
 ---
 
-## 9. Time is material
+## 15. Time is material
 
 Boats leave at nine and at four. The mat holds a fortnight. Campaign season is forty-one days. Winter trials belong on the vault. Notice is given a season ahead. Waiting is not latency to disguise; it is protected time returned to the one who writes, watches, or decides.
 
-Interfaces that hurry every interval into a spinner have not yet learned the house’s patience.
+The product may batch, wait for weather, ask a bench, or rest a ledger. Timing belongs to the world and must not be replaced with generic spinners or artificial immediacy. Interfaces that hurry every interval into a spinner have not yet learned the house’s patience.
 
 ---
 
-## 10. The page is a document before it is a product
+## 16. Night is a second composition
+
+Dark mode is not inversion. Each world maps its semantic roles into a neutral-charcoal night register with restrained, moonlit accents — a second composition, made with the same care as the first.
+
+A work may live in night alone when its subject keeps those hours.
+
+---
+
+## 17. Shared mechanics remain subordinate
+
+Theme, focus, reduced motion, state machines, sorting, filtering, responsive rules, and chart behavior may be shared machinery.
+
+Their visual expression remains local to each world. When the shared part shows, the house has leaked.
+
+---
+
+## 18. The page is a document before it is a product
 
 Digests, minutes, briefings, catalogues, watches — even consoles — keep the manners of paper: measure, hierarchy, citation, confidence spoken plainly, a footer that knows what it is.
 

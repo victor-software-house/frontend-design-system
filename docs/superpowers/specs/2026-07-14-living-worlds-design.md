@@ -5,6 +5,16 @@ Date: 2026-07-14
 Source: `victor-software-house/frontend-design-corpus@33c360659fed449fc849d4ed651bb3a856b76f12`
 Repository: `victor-software-house/frontend-design-system`
 
+## The canon
+
+Three documents govern this work, each owning one register:
+
+- **`docs/design-laws.md`** — the law. The single home of corpus law; nothing here restates it.
+- **This specification** — the constitution. Gates, worlds, instruments, architecture, and stop conditions.
+- **`docs/superpowers/plans/2026-07-14-correspondence-living-world-proof.md`** — the rite. The executable sequence for the first proof.
+
+When these documents appear to disagree, the narrower document yields: the plan yields to this specification, and both yield to the laws.
+
 ## Purpose
 
 Build a modern React design system that preserves the intelligence and quality of the pinned corpus without turning its works into screenshots, templates, or exhibits inside a new gallery identity.
@@ -113,82 +123,11 @@ The remaining works retain independent registers unless future approved work est
 
 The Atlas labels these as studies, not leftovers.
 
-## Corpus laws
+## Corpus law
 
-### Subject precedes system
+The laws of the corpus — subject before system, content as material, value before hue, the single ember, the underlayer, typographic roles, density, quiet, the authored moment, world over template, the four weathers, decision, manners, ornament, time, night, subordinate machinery, and the page as document — are codified once, in `docs/design-laws.md`.
 
-Each work begins with a subject, audience, tension, and mood. Components are selected only after the native representation of the problem is understood.
-
-### Content and interface are one material
-
-The strongest language defines behavior and hierarchy. The boat batches delivery. The bench has a real queue. The wall obeys weather. The ledger recognizes a hand. Removing the language changes the product.
-
-### One authored moment carries each work
-
-Every approved work needs a composition that could not be exchanged with another without breaking meaning: the sewn spine, three roads, listening wall, gate rail, anomalous ember series, plotted light, or correspondence window.
-
-The surrounding interface remains quiet enough for that moment to govern.
-
-### Repetition creates a world, not a template
-
-Related works share memory, manners, nouns, and consequences while retaining distinct silhouettes. Consistency is continuity, not identical cards.
-
-### Typography has dramatic roles
-
-Typography is not one global family or scale:
-
-- display serif carries ceremony or conviction
-- text serif carries sustained thought and intimacy
-- sans carries operation and navigation
-- mono carries evidence, provenance, time, identifiers, and machine state
-- italic carries voice, qualification, or material character
-
-Each world maps these roles to approved faces.
-
-### Density follows the act
-
-A catalogue is dense because lookup is the work. A decision minute is spacious because consequence must settle. A console is tight because scanning matters. No global density system may flatten those differences.
-
-### Quiet is constructed
-
-Quiet comes from measure, pacing, hairlines, disciplined color, controlled emphasis, and meaningful empty space. It is not absence of design.
-
-### Color is expenditure
-
-- one blue may point across a reading surface
-- one ember identifies the exceptional series or decision
-- green seals resolution
-- amber holds a gate
-- dark walls remain neutral charcoal
-- moonlight accents remain muted
-- categorical rainbow palettes do not survive
-
-### Ornament informs or becomes pure form
-
-An ornament must add meaning, support use, or remain honestly abstract. It must not repeat adjacent information.
-
-### States preserve dignity and work
-
-- Empty knows the room and offers one door.
-- Loading names the labor and reveals real progress when known.
-- Error names the failure, states what was kept, and places repair within reach.
-- Success closes the loop and yields attention back.
-
-### Interaction obeys the world's time
-
-The product may batch, wait for weather, ask a bench, or rest a ledger. Timing belongs to the world and must not be replaced with generic spinners or artificial immediacy.
-
-### Evidence leads to judgment
-
-Charts, tables, timelines, and ledgers lead to a decision, gate, repair, or explicit unresolved question. Display without consequence is insufficient.
-
-### Dark mode is a second composition
-
-Dark mode is not inversion. Each world maps semantic roles into a neutral-charcoal night register with restrained accents. A work may be dark-only when its subject and use justify it.
-
-### Shared mechanics remain subordinate
-
-Theme, focus, reduced motion, state machines, sorting, filtering, responsive rules, and chart behavior may be shared. Their visual expression remains local.
+Every translation, elevation, instrument, and package in this design is bound by that register. A change that satisfies this specification but breaks a law is rejected.
 
 ## Public experience
 
@@ -419,13 +358,7 @@ Only the Correspondence house is built for the first approval cycle.
 
 The visual proof is authored in a disposable workspace outside the target Git repository. Gate 1 is reviewed before Gate 2 begins. Only the operator-approved elevated result is then reimplemented cleanly in the target repository; rejected proof code, captures, and translations never enter its object database or branches.
 
-### Review sequence
-
-1. **Fidelity proof** — live React translation of the five Correspondence surfaces, with shared machinery visually subordinate.
-2. **Fidelity review** — full-height desktop and mobile, light and dark, plus the complete route journey.
-3. **Elevation proof** — add only improvements derived from Correspondence's existing beliefs: continuity, preserved state, richer consequences, and one new authored moment.
-4. **Elevation review** — compare against both the pinned originals and the approved fidelity proof.
-5. **Clean implementation** — reproduce the approved result in the target repository without importing temporary proof history or files.
+The executable sequence — tasks, tooling, tests, capture matrices, and gate ceremonies — belongs to the proof plan. This specification owns only the contract the plan must honor: the scope below, the two gates above, and the stop conditions that end the proof.
 
 ### Scope
 
@@ -505,3 +438,5 @@ Mechanical success cannot approve taste. Operator review remains the gate.
 The operator selected **Living worlds with a summonable Atlas and system lens** on 2026-07-14.
 
 A neutral anthology remains the failure-safe fallback for Atlas design. An adaptive gallery shell is rejected because it would make the shell another author competing with the corpus.
+
+On 2026-07-14 the canon was layered: corpus law moved wholly into `docs/design-laws.md`, this specification became the constitution that cites it, and the proof plan remained the executable rite. Each truth now has one home.
