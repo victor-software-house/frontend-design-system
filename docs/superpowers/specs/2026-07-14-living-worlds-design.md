@@ -1,6 +1,6 @@
 # Living Worlds Design
 
-Status: direction approved; written specification pending operator review
+Status: approved by operator
 Date: 2026-07-14
 Source: `victor-software-house/frontend-design-corpus@33c360659fed449fc849d4ed651bb3a856b76f12`
 Repository: `victor-software-house/frontend-design-system`
